@@ -18,7 +18,7 @@ Além disso, estou empenhado em explorar as complexidades do Back-End e compreen
 - <a href="https://gabrielsantos789.github.io">GitHub (Profissional)</a>
 
 
-- "Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende "
+"Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende "
         - Leonardo DaVinci
 
 
